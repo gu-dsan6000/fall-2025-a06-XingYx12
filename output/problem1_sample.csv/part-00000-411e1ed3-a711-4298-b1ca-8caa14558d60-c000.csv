@@ -1,0 +1,11 @@
+log_entry,log_level
+17/06/09 13:38:50 INFO executor.Executor: Running task 39.0 in stage 15490.0 (TID 620073),INFO
+"17/02/01 14:54:08 INFO python.PythonRunner: Times: total = 148, boot = -50, init = 75, finish = 123",INFO
+17/06/08 10:17:59 INFO storage.BlockManager: Found block rdd_2_11 locally,INFO
+"17/06/09 17:48:41 INFO python.PythonRunner: Times: total = 40, boot = -188, init = 228, finish = 0",INFO
+"17/06/08 21:37:07 INFO storage.MemoryStore: Block broadcast_17355_piece0 stored as bytes in memory (estimated size 6.0 KB, free 1327.0 KB)",INFO
+"17/03/29 17:27:24 INFO storage.MemoryStore: Block broadcast_6_piece304 stored as bytes in memory (estimated size 4.0 MB, free 2.6 GB)",INFO
+17/06/09 17:59:04 INFO storage.BlockManager: Found block rdd_3296_23 locally,INFO
+17/06/09 11:27:26 INFO storage.BlockManager: Found block rdd_2539_1 locally,INFO
+"17/06/08 10:23:55 INFO python.PythonRunner: Times: total = 38, boot = -457, init = 495, finish = 0",INFO
+17/06/09 13:13:26 INFO executor.Executor: Running task 23.0 in stage 14288.0 (TID 571986),INFO
